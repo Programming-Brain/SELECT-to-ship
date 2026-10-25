@@ -26,4 +26,4 @@ This is the Git repository with the source code for the book [SELECT to Ship: Ma
     └── chapter-10
 ```
 
-Happy coding!
+Keep learning, and keep shipping!
